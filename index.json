@@ -1,38 +1,14 @@
-{
+
+[
+
+
   {
-  "id": 1,
-  "yogaTitle":"YOGA",
-  "yogaImage":"https://images.news18.com/ibnlive/uploads/2022/04/yoga-164923092416x9.png",
-  "yogaDetail":"Yoga is a mind and body practice. Various styles of yoga combine physical postures, breathing techniques, and meditation or relaxation.The first mention of the word 'yog' appears in Rig Veda, a collection of ancient texts. Yoga comes from the Sanskrit word 'yuj,' which means 'union' or 'to join.'Yoga can be traced back to northern India over 5,000 years ago.Indian monks spread their knowledge of yoga in the West during the late 1890s. Modern yoga teachings became widely popular in Western countries by the 1970s.",
-  
-  "VideoTitle":"Video",
-  "VideoLink":"https://www.youtube.com/watch?v=v7AYKMP6rOE",
-  
-  "stressTitle":"Stress",
-  
-  "stressImage":"https://img.freepik.com/free-vector/student-stress-concept-illustration_114360-8908.jpg?w=2000",
-  
-  "stressDetail":"Stress is a feeling of emotional or physical tension. It can come from any event or thought that makes you feel frustrated, angry, or nervous. Stress is your body's reaction to a challenge or demand. In short bursts, stress can be positive, such as when it helps you avoid danger or meet a deadline. But when stress lasts for a long time, it may harm your health."
+     "name":"Coffee",
+     "Expires":"22/7/2022"
+  },
+  {
+     "name":"Biscuits",
+     "Expires":"22/8/2022"
+  }
 
-
-  
-},
-{
-  "id": 2,
-  "yogaTitle":"YOGA",
-  "yogaImage":"https://images.news18.com/ibnlive/uploads/2022/04/yoga-164923092416x9.png",
-  "yogaDetail":"Yoga is a mind and body practice. Various styles of yoga combine physical postures, breathing techniques, and meditation or relaxation.The first mention of the word 'yog' appears in Rig Veda, a collection of ancient texts. Yoga comes from the Sanskrit word 'yuj,' which means 'union' or 'to join.'Yoga can be traced back to northern India over 5,000 years ago.Indian monks spread their knowledge of yoga in the West during the late 1890s. Modern yoga teachings became widely popular in Western countries by the 1970s.",
-  
-  "VideoTitle":"Video",
-  "VideoLink":"https://www.youtube.com/watch?v=v7AYKMP6rOE",
-  
-  "stressTitle":"Stress",
-  
-  "stressImage":"https://img.freepik.com/free-vector/student-stress-concept-illustration_114360-8908.jpg?w=2000",
-  
-  "stressDetail":"Stress is a feeling of emotional or physical tension. It can come from any event or thought that makes you feel frustrated, angry, or nervous. Stress is your body's reaction to a challenge or demand. In short bursts, stress can be positive, such as when it helps you avoid danger or meet a deadline. But when stress lasts for a long time, it may harm your health."
-
-
-  
-},
-}
+]
