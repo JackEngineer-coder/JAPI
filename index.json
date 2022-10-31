@@ -1,8 +1,3 @@
-  GridViewItems: [
-              { key:  "1", url : 'https://pbs.twimg.com/profile_images/486929358120964097/gNLINY67_400x400.png' },
-              { key: "2" , url : 'https://pbs.twimg.com/profile_images/486929358120964097/gNLINY67_400x400.png'},
-              { key: "3" , url : 'https://pbs.twimg.com/profile_images/486929358120964097/gNLINY67_400x400.png'},
-              { key: "4" , url : 'https://pbs.twimg.com/profile_images/486929358120964097/gNLINY67_400x400.png'},
-              { key: "5" , url : 'https://pbs.twimg.com/profile_images/486929358120964097/gNLINY67_400x400.png'},
-              { key: "6", url : 'https://pbs.twimg.com/profile_images/486929358120964097/gNLINY67_400x400.png' }
-            ],
+  
+              { key:  "1", url : 'https://pbs.twimg.com/profile_images/486929358120964097/gNLINY67_400x400.png' }            
+            
